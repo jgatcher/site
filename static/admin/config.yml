@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: jgatcher/site
+  base_url: https://auth.megatchr.om
 
 media_folder: static/assets
 
